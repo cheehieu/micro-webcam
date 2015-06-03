@@ -17,6 +17,7 @@ This webcam microscope can capture 1080p resolution images at 30fps. It has a wo
 * $40 Microsoft LifeCam Studio 1080p HD Webcam from eBay
 * $50 Microscope Lens MOD Kit from [DIYINHK](http://www.diyinhk.com/shop/usb-microscope-1080p-for-smt-soldering/51-lifecam-studio-1080p-microscope-lens-mod-kit.html)
 * $10 Targus Grypton Pro 6" Tripod from Walmart
+
 **GRAND TOTAL: $100**
 
 The mod involves swapping out the camera lens (left) with a microscope lens (right). 
