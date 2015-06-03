@@ -8,9 +8,9 @@ This DIY project was completed in an effort to build a home electronics lab. I w
 ## Hardware
 This webcam microscope can capture 1080p resolution images at 30fps. It has a working distance of 15cm and a depth of field >10mm. 
 
-* Microsoft LifeCam Studio 1080p HD Webcam: $40 on eBay
-* DIYINHK Microscope Lens MOD Kit: $50 on [DIYINHK](http://www.diyinhk.com/shop/usb-microscope-1080p-for-smt-soldering/51-lifecam-studio-1080p-microscope-lens-mod-kit.html)
-* Targus Grypton Pro 6" Tripod: $10 from Walmart
+* $40 Microsoft LifeCam Studio 1080p HD Webcam from eBay
+* $50 Microscope Lens MOD Kit from [DIYINHK](http://www.diyinhk.com/shop/usb-microscope-1080p-for-smt-soldering/51-lifecam-studio-1080p-microscope-lens-mod-kit.html)
+* $10 Targus Grypton Pro 6" Tripod from Walmart
 
 **GRAND TOTAL: $100**
 
