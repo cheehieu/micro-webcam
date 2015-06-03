@@ -4,7 +4,7 @@ title: micro-webcam
 subtitle: A webcam repurposed as a microscope for real-time surface mount soldering and rework.
 ---
 
-<img src="http://niftyhedgehog.com/micro-webcam/images/complete.jpg" height="500">
+<img src="http://niftyhedgehog.com/micro-webcam/images/complete.jpg">
 
 ## Overview
 Electronics are small. Soldering fine-pitch ICs and 0402 passive components can be extremely difficult and dexterously demanding. Lab tools such as magnifying glasses and professional microscopes are fantastic, but can be cumbersome to use or large/expensive.
